@@ -1,0 +1,235 @@
+h1 {
+
+  
+
+  font-size: 3em;
+
+  color: rgb(80, 4, 4);
+
+}
+
+
+
+h5 {
+
+  font-weight: bolder;
+
+  font-size: 1.5em;
+
+}
+
+
+
+body {
+
+  background-color: rgb(17, 155, 17);
+
+}
+
+.container {
+
+  text-align: center;
+
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+
+
+
+
+
+/*#myVideo {
+
+  position: fixed;
+
+  right: 0;
+
+  bottom: 0;
+
+  min-width: 100%;
+
+  min-height: 100%;
+
+}
+
+
+
+/* Add some content at the bottom of the video/page */
+
+.content {
+
+  position: fixed;
+
+  bottom: 0;
+
+  background: rgba(0, 0, 0, 0.5);
+
+  color: #f1f1f1;
+
+  width: 100%;
+
+  padding: 20px;
+
+}
+
+
+
+/* Style the button used to pause/play the video */
+
+#myBtn {
+
+  width: 200px;
+
+  font-size: 18px;
+
+  padding: 10px;
+
+  border: none;
+
+  background: #000;
+
+  color: #fff;
+
+  cursor: pointer;
+
+}
+
+*/
+
+
+
+
+
+.fullscreen-bg {
+
+  position: fixed;
+
+  margin-left: 0px;
+
+  left: 0;
+
+  overflow: hidden;
+
+  width: 100%;
+
+  height: 100%;
+
+  z-index: -100;
+
+  opacity: 0.75;
+
+  filter: alpha(opacity=50);
+
+
+
+}
+
+
+
+.fullscreen-bg__video {
+
+  position: absolute;
+
+  top: 0;
+
+  left: 0;
+
+  width: 100%;
+
+  height: 100%;
+}
+
+
+.card {   
+    width: 25%; 
+    display: inline-block; 
+    border-radius: 5px; 
+    margin: 40px; 
+    box-shadow: 2px 2px 10px black; 
+ 
+}
+
+.nav-link {
+    color: black; 
+    font-size: 1em; 
+
+}
+
+button{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:10px;
+  }
+  button:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+    cursor: pointer;
+  }
+
+.card-title{
+    text-align: center;
+    padding: 10px;
+    }
+
+}
+
+/*
+
+
+
+}
+
+.jumbotron {
+
+  
+
+  margin-bottom:0px;
+
+
+
+}
+
+.header {
+
+  position: fixed;
+
+
+
+}
+
+
+
+/*
+
+
+
+strong {
+
+  font-weight: bolder;
+
+  font-size: 22px;
+
+}
+
+
+
+p {
+
+  text-align: left;
+
+  line-height: 26pt;
+
+}
+
+
+
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
